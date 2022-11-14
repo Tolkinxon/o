@@ -1,7 +1,6 @@
 'use strict'
+'hello world'
 
 
-
-confirm('take a medicine')
 
 
